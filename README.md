@@ -4,7 +4,6 @@ This notebook contains a k means clustering pipeline in python.  This pipeline h
 
 ## Example Outputs
 
-![Example Output](/Output/1.png)
 ![Example Output](/Output/2.png)
 ![Example Output](/Output/3.png)
 ![Example Output](/Output/4.png)
